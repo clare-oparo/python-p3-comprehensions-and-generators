@@ -105,7 +105,7 @@ eliminate even more bulk from your code!
 
 ***
 
-## Generator Expressions
+## Generato r Expressions
 
 Generator expressions are very similar to list comprehensions. They use almost
 identical syntax to produce iterable objects in a single line:
